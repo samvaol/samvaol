@@ -12,7 +12,7 @@
 
 ## Github Stats  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=samvaol&show_icons=true&count_private=true&hide_border=true" style="width: 56%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samvaolanuraghazra&show_icons=true&theme=radical) style="width: 56%;"/>
 </div>
 
 
