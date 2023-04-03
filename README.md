@@ -7,13 +7,7 @@
 
 
 
-<br/>  
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>
 
 
-## Github Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=samvaolanuraghazra&show_icons=true&theme=radical) style="width: 56%;"/>
-</div>
-
-
-<br/>  
