@@ -26,5 +26,3 @@
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://suppis.fi/loggo/cypress.svg" alt="Cypress" height="85" /></a>
 </div>
 </div>
-
-https://tamtraining.com/wp-content/uploads/2022/05/Oracle_Cloud_for_Higher_Education_tam_training.jpeg
