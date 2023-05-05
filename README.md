@@ -29,4 +29,6 @@
 
 <div style="padding: 10%;"></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" alt="Top Languages">
+</p>
