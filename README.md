@@ -29,5 +29,4 @@
 
 <div style="padding: 10%;"></div>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samvaol&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight)
