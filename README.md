@@ -30,5 +30,5 @@
 <div style="padding: 10%;"></div>
 
 <p align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samvaol&hide_progress=true&theme=tokyonight" alt="Top Languages">
 </p>
