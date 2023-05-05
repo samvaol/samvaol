@@ -27,5 +27,7 @@
 </div>
 </div>
 
+<div style="padding: 10%;"></div>
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samvaol&theme=tokyonight)
 
