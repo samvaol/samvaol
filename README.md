@@ -26,6 +26,6 @@
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://suppis.fi/loggo/cypress.svg" alt="Cypress" height="85" /></a>
 </div>
 </div>
-<div align="center">
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samvaol&theme=tokyonight)
-</div>
+
