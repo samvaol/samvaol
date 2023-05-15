@@ -5,7 +5,6 @@
 
 
 ## My skillset  
-
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="85" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" height="85" /></a>  
@@ -24,6 +23,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Pyhton" height="85" /></a>
 <a href="https://www.fishshell.com/" target="_blank"><img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="Pyhton" height="85" /></a>
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://suppis.fi/loggo/cypress.svg" alt="Cypress" height="85" /></a>
+<a href="https://pptr.dev/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" height="85" /></a>
 </div>
 </div>
 
