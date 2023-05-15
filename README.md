@@ -24,8 +24,8 @@
 <a href="https://www.fishshell.com/" target="_blank"><img style="margin: 10px" src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" alt="Pyhton" height="85" /></a>
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://suppis.fi/loggo/cypress.svg" alt="Cypress" height="85" /></a>
 <a href="https://pptr.dev/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" height="85" /></a>
+ <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.articlestheme.com%2Fwp-content%2Fuploads%2F2021%2F05%2FSelenium_Logo-1470x1536.png&f=1&nofb=1&ipt=58b8cd512e3371832b1aca27a5153df5142377ef8535c446eb60f840911756ea&ipo=images" alt="Selenium" height="85" /></a>
 </div>
 </div>
-
 <div style="padding: 10%;"></div>
 
