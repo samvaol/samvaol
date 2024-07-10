@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm samvaol
 
 - 📫  You can reach me at github@svos.fi
-- 🐘  @svos@mstdn.social
-
 
 ## My favorites  
 <div align="center">  
